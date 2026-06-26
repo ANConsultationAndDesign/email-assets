@@ -1,0 +1,1 @@
+Email asset folder.
